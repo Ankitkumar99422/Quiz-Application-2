@@ -1,2 +1,3 @@
 # Quiz-Application-2
 The Quiz Management System is a Java-based GUI application designed to streamline the process of creating, managing, and taking quizzes. It features role-based access for administrators and users, question management using a database, and real-time evaluation of quiz results.
+Make a Folder named "project" inside src. Copy all the code from github and paste under quiz folder. Add a "lib" folder under the new project with src folder. Download sqlite jdbc driver from official website and paste it under the "lib" folder. Then add it to the library/depository. so that sql can be connected through jdk. Admin login-> username-Admin, password-1234
